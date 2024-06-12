@@ -1,0 +1,56 @@
+*{
+    text-align: center;
+}
+body{
+
+    margin: 0;
+    padding: 0%;
+    background-color: rgb(6, 4, 3);
+}
+.box{
+    color: rgb(248, 247, 250);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+    padding:50px;
+    font-weight: 300PX;
+    font-size: xx-large;
+    
+    border: 70px;
+    border-radius: 10%;
+    
+    
+}
+div{
+    background-color:antiquewhite ;
+    width: 300px;
+    height: 550px;
+    margin: 5px;
+    float: left;
+    margin-left: 60px;
+    border: double;
+    border-radius: 50px;
+}
+img{
+    align-items: center;
+    width: 220px;
+    height: 200px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-radius: 200px;
+    border:lightblue;
+    
+}
+h2{
+    margin-top: 30px;
+    color: brown;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: black;
+    font-style: italic;
+    text-align: center;
+}
